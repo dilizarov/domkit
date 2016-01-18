@@ -1,0 +1,41 @@
+{
+  "name": "dommkitt",
+  "description": "Toolkit for DOM",
+  "main": ["addClass.js",
+    "addEventListener.js",
+    "appendVendorPrefix.js",
+    "builtinStyle.js",
+    "canUseDOM.js",
+    "getVendorPrefix.js",
+    "getVendorPropertyName.js",
+    "hasClass.js",
+    "inViewport.js",
+    "insertKeyframesRule.js",
+    "insertRule.js",
+    "onEndTransition.js",
+    "removeClass.js",
+    "removeEventListener.js",
+    "throttle.js",
+    "transitionEvents.js"],
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "authors": [
+    "Yuanyan Cao"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "dom",
+    "domkit",
+    "toolkit",
+    "dom-kit"
+  ],
+  "homepage": "https://github.com/dilizarov/domkit",
+  "moduleType": []
+}
